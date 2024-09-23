@@ -1,1 +1,1 @@
-# This Machine Learning Note lays all the foundation and neccessary examples
+A comprehensive machine learning repository containing 30+ notebooks on different concepts, algorithms and techniques.
